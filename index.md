@@ -1,11 +1,17 @@
-<center>
-  
-# Tutorial on Artificial Text Detection #
-## Tutorial at [INLG 2022 Conference](https://inlgmeeting.github.io/) ##
+<!DOCTYPE html>
+<html>
+<title>Tutorial on Artificial Text Detection</title>
+<head>
+</head>
+<center> 
+<body>
+<h1>Tutorial on Artificial Text Detection</h1>
+<h2>Tutorial at <a href="https://inlgmeeting.github.io/">INLG 2022 Conference</a></h2>
+</body>
 
-
-  ### Overview ####
-  Recent advances in natural language generation
+<body>
+<h3>Overview</h3>
+<div> Recent advances in natural language generation
   have led to the development of models capable
   of generating high-quality and human-like texts
   among many languages and domains. However,
@@ -24,18 +30,19 @@
   generated texts, (6) standard crowd-sourcing
   practices and related critical studies, (7) downstream applications, and (8) established risks
   of harm. We conclude by outlining unresolved
-  methodological problems and future work directions.
-  
-  
-### Materials ####
+  methodological problems and future work directions.</div>
+</body>
 
-Tutorial Overview </br>
+<body>
+    <h3>Materials</h3>
+    <div><p><a href="https://inlgmeeting.github.io/">Tutorial Overview</a> </br>
+    </p></div>
+    
+    <div> Slides </div>
+</body>
 
-Slides </br>
-
-
-
-### Organizers ###
-
-  
-</center>
+<body>
+    <h3> Organizers</h3>
+</body>
+<center> 
+</html>
