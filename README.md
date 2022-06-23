@@ -1,1 +1,1 @@
-# artificial-text-detection-inlg-tutorial.github.io
+# artificial-text-detection.github.io
