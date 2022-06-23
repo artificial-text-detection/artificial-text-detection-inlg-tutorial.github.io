@@ -42,6 +42,26 @@
 
 </body>
 
+
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+
 <body>
     <h3> Organizers</h3>
 <!--      <img src="images/Adaku-Uchendu.jpg" width="200" height="250" alt="Adaku Uchendu">
