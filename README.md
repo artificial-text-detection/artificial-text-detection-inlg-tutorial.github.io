@@ -1,1 +1,1 @@
-# artificial-text-detection.github.io
+# Tutorial on Artificial Text Detection
